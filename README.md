@@ -1,4 +1,4 @@
 # AndroidRTC
 
 
-Use https://appr.tc/ with room id 253025 for testing
+Use https://appr.tc/ with your room name if you have one device only
