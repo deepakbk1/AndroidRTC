@@ -1,4 +1,6 @@
-# AndroidRTC
+# AndroidRTC 
+
+WebRTC implementation for video Chat Call 
 
 
-Use https://appr.tc/ with your room name if you have one device only
+Use any 5 character to create room and then share same with your friend to start video chat
